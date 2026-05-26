@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "gemini-proxy-panel"
+name = "gemini-proxy-panel2"
 main = "worker/src/index.ts"
 compatibility_date = "2025-03-27"
 compatibility_flags = ["nodejs_compat"]
