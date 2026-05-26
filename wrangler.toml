@@ -16,8 +16,8 @@ crons = ["*/30 * * * *"]
 
 [[kv_namespaces]]
 binding = "GEMINI_KEYS_KV"
-id = "123321"
+id = "d1dc1594fbbc4803aec163e5bdce9669"
 
 [[kv_namespaces]]
 binding = "WORKER_CONFIG_KV"
-id = "123321"
+id = "f90ac8f523c740c7bf8d7b97646090e9"
