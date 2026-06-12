@@ -32,7 +32,7 @@ jobs:
       
       - name: Add upstream remote
         run: |
-          git remote add upstream https://github.com/dreamhartley/gemini-proxy-panel.git
+          git remote add upstream https://github.com/jackwong-hub/gemini-proxy-panel2.git
           git fetch upstream
       
       - name: Sync fork with upstream
